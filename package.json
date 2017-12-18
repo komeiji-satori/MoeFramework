@@ -1,0 +1,22 @@
+{
+    "name": "MoeFramework",
+    "version": "1.0.0",
+    "description": "A RESTful API Framework Based on Node.js",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "moe"
+    ],
+    "author": "SatoriKagurazaka",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/komeiji-satori/MoeFramework.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
